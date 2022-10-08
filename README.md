@@ -1,2 +1,2 @@
 # BasicFrameworkWeb
-Basic Frameworkd for Web
+Basic Framework for Web
